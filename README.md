@@ -1,10 +1,8 @@
-# hello_world_mar28
+# flutter quiz app
 
-A new Flutter project.
+A new Flutter project created from flutter cli.
 
 ## Getting Started
-
-This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
 
